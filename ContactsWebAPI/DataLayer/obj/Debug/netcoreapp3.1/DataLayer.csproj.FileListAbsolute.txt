@@ -1,0 +1,8 @@
+D:\A\LiveProject\EHI\ContactsWebAPI\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+D:\A\LiveProject\EHI\ContactsWebAPI\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\A\LiveProject\EHI\ContactsWebAPI\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\A\LiveProject\EHI\ContactsWebAPI\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+D:\A\LiveProject\EHI\ContactsWebAPI\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+D:\A\LiveProject\EHI\ContactsWebAPI\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\A\LiveProject\EHI\ContactsWebAPI\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+D:\A\LiveProject\EHI\ContactsWebAPI\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
